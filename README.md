@@ -15,6 +15,10 @@ If you want to add/delete a program for the exe edit the script.bat file and add
   - The WorkHW and script.bat both show a console window with what closed and what didnt
   - The WorkHW invis doesnt show a console and closes a little faster
   
-  # Some warnings/erros
-    - Don't close windows tasks like windows explorer because it will mess with your computer and if you do completely shutting down your computer will fix it.
-    - EAC and other Anticheats will give you an error when closing the games used by them. 
+# Some warnings/erros
+  - Don't close windows tasks like windows explorer because it will mess with your computer and if you do completely shutting down your computer will fix it.
+  - EAC and other Anticheats will give you an error when closing the games used by them. 
+
+# Why
+Idk why I made this its pretty usefull in certain situations but I was just bored.
+Didnt make it in py because batch is much easier for this kind of stuff.
